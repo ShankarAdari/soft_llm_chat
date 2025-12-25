@@ -17,8 +17,9 @@ Message markdown rendering for formatted LLM responses
 
 Chat history persistence in database for logged-in users
 
-<img width="1554" height="646" alt="image" src="https://github.com/user-attachments/assets/9ca5b71d-42c5-42bb-8e22-a38d4980ce67" />
+This LLM could give the responses in more humanfriendly language 
+<img width="948" height="934" alt="image" src="https://github.com/user-attachments/assets/e8d0bc7c-9c44-44a1-aa58-4946aa297f85" />
 
-<img width="775" height="612" alt="image" src="https://github.com/user-attachments/assets/3e17e3e8-d461-4a2d-b6f2-01ecc300c2ab" />
+The LLM could also be used for various multiple ways like event planner and an assistant which makes it more impressive and great to use and chat with it
 
-<img width="1901" height="876" alt="image" src="https://github.com/user-attachments/assets/50a694d2-f1b6-489a-b38c-6cee35c20d25" />
+<img width="1901" height="876" alt="image" src="https://github.com/user-attachments/assets/f7dd1005-c5d3-43a0-87ae-1fa09a0a2924" />
