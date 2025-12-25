@@ -17,3 +17,8 @@ Message markdown rendering for formatted LLM responses
 
 Chat history persistence in database for logged-in users
 
+<img width="1554" height="646" alt="image" src="https://github.com/user-attachments/assets/9ca5b71d-42c5-42bb-8e22-a38d4980ce67" />
+
+<img width="775" height="612" alt="image" src="https://github.com/user-attachments/assets/3e17e3e8-d461-4a2d-b6f2-01ecc300c2ab" />
+
+<img width="1901" height="876" alt="image" src="https://github.com/user-attachments/assets/50a694d2-f1b6-489a-b38c-6cee35c20d25" />
